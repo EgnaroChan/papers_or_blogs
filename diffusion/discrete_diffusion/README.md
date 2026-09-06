@@ -12,3 +12,7 @@
 - **D3IM / SCOPE** — Revise, Don’t Freeze: Sampler-Matched Training for Self-Correcting Masked Diffusion Language Models [↗](https://arxiv.org/abs/2606.01026)
   - **Venue:** arXiv 2026
   - **Tags:** `Masked Diffusion` `Language Model`
+
+- **Duo** — The Diffusion Duality [↗](https://arxiv.org/abs/2506.10892)
+  - **Venue:** ICML 2025
+  - **Tags:** `Uniform-state Diffusion` `Language Model` `Consistency Distillation`
