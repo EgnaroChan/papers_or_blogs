@@ -8,3 +8,7 @@
 - **PAPL** — Planner Aware Path Learning in Diffusion Language Models Training [↗](https://arxiv.org/abs/2509.23405)
   - **Venue:** ICLR 2026 (Oral)
   - **Tags:** `Masked Diffusion` `Language Model`
+
+- **D3IM / SCOPE** — Revise, Don’t Freeze: Sampler-Matched Training for Self-Correcting Masked Diffusion Language Models [↗](https://arxiv.org/abs/2606.01026)
+  - **Venue:** arXiv 2026
+  - **Tags:** `Masked Diffusion` `Language Model`
