@@ -16,3 +16,7 @@
 - **Duo** — The Diffusion Duality [↗](https://arxiv.org/abs/2506.10892)
   - **Venue:** ICML 2025
   - **Tags:** `Uniform-state Diffusion` `Language Model` `Consistency Distillation`
+
+- **MDLM** — Simple and Effective Masked Diffusion Language Models [↗](https://arxiv.org/abs/2406.07524)
+  - **Venue:** NeurIPS 2024
+  - **Tags:** `Masked Diffusion` `Language Model`
